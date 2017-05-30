@@ -1,0 +1,394 @@
+[
+  {
+    "value": "Off",
+    "key": "WaterFilter",
+    "options": [
+      {
+        "count": 0,
+        "label": "Off",
+        "value": "Off"
+      },
+      {
+        "count": 6,
+        "label": "Slightly",
+        "value": "semi-bog"
+      },
+      {
+        "count": 14,
+        "label": "Moderately",
+        "value": "bog-tol"
+      },
+      {
+        "count": 16,
+        "label": "Very",
+        "value": "v.bog"
+      }
+    ]
+  },
+  {
+    "value": "Off",
+    "key": "WaterFilter",
+    "options": [
+      {
+        "count": 0,
+        "label": "Off",
+        "value": "Off"
+      },
+      {
+        "count": 15,
+        "label": "Slightly",
+        "value": "semi-dr"
+      },
+      {
+        "count": 53,
+        "label": "Moderately",
+        "value": "dr-tol"
+      },
+      {
+        "count": 63,
+        "label": "Very",
+        "value": "v.dr"
+      }
+    ]
+  },
+  {
+    "value": "Off",
+    "key": "DryAirFilter",
+    "options": [
+      {
+        "count": 0,
+        "label": "Off",
+        "value": "Off"
+      },
+      {
+        "count": 1,
+        "label": "Very low",
+        "value": "low2"
+      },
+      {
+        "count": 2,
+        "label": "Low",
+        "value": "low1"
+      },
+      {
+        "count": 21,
+        "label": "Fair",
+        "value": "fair"
+      },
+      {
+        "count": 60,
+        "label": "High",
+        "value": "high1"
+      },
+      {
+        "count": 20,
+        "label": "Very high",
+        "value": "high2"
+      }
+    ]
+  },
+  {
+    "value": "Off",
+    "key": "GrowthFilter",
+    "options": [
+      {
+        "count": 0,
+        "label": "Off",
+        "value": "Off"
+      },
+      {
+        "count": 1,
+        "label": "Extremely slow",
+        "value": "slow3"
+      },
+      {
+        "count": 18,
+        "label": "Very slow",
+        "value": "slow2"
+      },
+      {
+        "count": 43,
+        "label": "Slow",
+        "value": "slow1"
+      },
+      {
+        "count": 43,
+        "label": "Moderate",
+        "value": "mod"
+      },
+      {
+        "count": 24,
+        "label": "Fast",
+        "value": "fast1"
+      },
+      {
+        "count": 5,
+        "label": "Very fast",
+        "value": "fast2"
+      },
+      {
+        "count": 3,
+        "label": "Extremely fast",
+        "value": "fast3"
+      }
+    ]
+  },
+  {
+    "value": "Off",
+    "key": "leaf color",
+    "options": [
+      {
+        "count": 0,
+        "label": "Off",
+        "value": "Off"
+      },
+      {
+        "count": 58,
+        "label": "Green on both sides",
+        "value": "allgrn"
+      },
+      {
+        "count": 13,
+        "label": "Whitish bottom side",
+        "value": "whtbot"
+      },
+      {
+        "count": 25,
+        "label": "Moderately pale bottom side",
+        "value": "mpbot"
+      },
+      {
+        "count": 18,
+        "label": "Both sides blue-gray to silver",
+        "value": "allbs"
+      },
+      {
+        "count": 3,
+        "label": "Red, reddish to bronze when new",
+        "value": "newred"
+      }
+    ]
+  },
+  {
+    "value": "Off",
+    "key": "keyvalues",
+    "options": [
+      {
+        "count": 0,
+        "label": "Off",
+        "value": "Off"
+      },
+      {
+        "count": 50,
+        "label": "Feather",
+        "value": "fethr"
+      },
+      {
+        "count": 56,
+        "label": "Fan",
+        "value": "fan"
+      }
+    ]
+  },
+  {
+    "value": "Off",
+    "key": "wind salt",
+    "options": [
+      {
+        "count": 0,
+        "label": "Off",
+        "value": "Off"
+      },
+      {
+        "count": 3,
+        "label": "Very",
+        "value": "st-very"
+      },
+      {
+        "count": 19,
+        "label": "Yes",
+        "value": "st-yes"
+      },
+      {
+        "count": 38,
+        "label": "Moderately",
+        "value": "st-mod"
+      },
+      {
+        "count": 33,
+        "label": "Slightly",
+        "value": "st-slight"
+      },
+      {
+        "count": 0,
+        "label": "Not",
+        "value": "st-not"
+      },
+      {
+        "count": 0,
+        "label": "Info unavailable",
+        "value": "st-ua"
+      }
+    ]
+  },
+  {
+    "value": "Off",
+    "key": "SunFilter",
+    "options": [
+      {
+        "count": 0,
+        "label": "Off",
+        "value": "Off"
+      },
+      {
+        "count": 77,
+        "label": "Full",
+        "value": "full"
+      },
+      {
+        "count": 24,
+        "label": "Gradual",
+        "value": "grad"
+      },
+      {
+        "count": 49,
+        "label": "Partial",
+        "value": "part"
+      },
+      {
+        "count": 14,
+        "label": "Shade",
+        "value": "shade"
+      }
+    ]
+  },
+  {
+    "value": "Off",
+    "key": "trans soil",
+    "options": [
+      {
+        "count": 0,
+        "label": "Off",
+        "value": "Off"
+      },
+      {
+        "count": 27,
+        "label": "Easily",
+        "value": "easily"
+      },
+      {
+        "count": 35,
+        "label": "Fine",
+        "value": "fine"
+      },
+      {
+        "count": 8,
+        "label": "Ok with prep",
+        "value": "ok w/prep"
+      },
+      {
+        "count": 25,
+        "label": "Poorly",
+        "value": "poorly"
+      },
+      {
+        "count": 8,
+        "label": "Bad, will probably kill",
+        "value": "bad"
+      }
+    ]
+  },
+  {
+    "value": "Off",
+    "key": "TrunkNumberFilter",
+    "options": [
+      {
+        "count": 0,
+        "label": "Off",
+        "value": "Off"
+      },
+      {
+        "count": 86,
+        "label": "Single stem",
+        "value": "single"
+      },
+      {
+        "count": 26,
+        "label": "Multi-trunk",
+        "value": "multi"
+      }
+    ]
+  },
+  {
+    "value": "Off",
+    "key": "WaterFilter",
+    "options": [
+      {
+        "count": 0,
+        "label": "Off",
+        "value": "Off"
+      },
+      {
+        "count": 6,
+        "label": "Very little",
+        "value": "light"
+      },
+      {
+        "count": 40,
+        "label": "Little",
+        "value": "little"
+      },
+      {
+        "count": 88,
+        "label": "Regular",
+        "value": "reg"
+      },
+      {
+        "count": 44,
+        "label": "Extra",
+        "value": "xtra"
+      }
+    ]
+  },
+  {
+    "value": "Off",
+    "key": "wind salt",
+    "options": [
+      {
+        "count": 0,
+        "label": "Off",
+        "value": "Off"
+      },
+      {
+        "count": 64,
+        "label": "Good",
+        "value": "w-good"
+      },
+      {
+        "count": 10,
+        "label": "Ok",
+        "value": "w-ok"
+      },
+      {
+        "count": 22,
+        "label": "Moderate",
+        "value": "w-mod"
+      },
+      {
+        "count": 8,
+        "label": "Poor",
+        "value": "w-poor"
+      },
+      {
+        "count": 0,
+        "label": "None",
+        "value": "w-no"
+      },
+      {
+        "count": 0,
+        "label": "Info unavailable",
+        "value": "w-ua"
+      }
+    ]
+  }
+]

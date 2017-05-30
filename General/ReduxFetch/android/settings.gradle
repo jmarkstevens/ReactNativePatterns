@@ -1,0 +1,3 @@
+rootProject.name = 'ReduxFetch'
+
+include ':app'
